@@ -1,6 +1,8 @@
 package GraduateAlgorithms;
 
 public class SnakesAndLadders {
+	
+	
 
 	public static void boardGameSnL(int src, int dest, int []moves, int snakesLadders[]) {
 		
